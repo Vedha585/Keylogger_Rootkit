@@ -1,0 +1,1 @@
+cmd_/home/remnux/Desktop/keylogger/keylogger.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/remnux/Desktop/keylogger/keylogger.ko /home/remnux/Desktop/keylogger/keylogger.o /home/remnux/Desktop/keylogger/keylogger.mod.o;  true
