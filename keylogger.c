@@ -15,7 +15,7 @@
 
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Vedha&Amrith");
+MODULE_AUTHOR("Vedha");
 
 
 static int irq = 1,  dev = 0xaa;
